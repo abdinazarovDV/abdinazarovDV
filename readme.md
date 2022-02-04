@@ -28,13 +28,13 @@
   <code><img width="15%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
   <code><img width="15%" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"></code>
 </p>
-<br>
+<!-- <br> -->
 <p>
   <code><img width="15%" src="https://img.shields.io/badge/-PostgresQL-black?style=flat-square&logo=postgresQl">
   <code><img width="15%" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB">
   <code><img width="15%" src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite">
 </p>
-<br>
+<!-- <br> -->
 <p>
   <code><img width="15%" src="https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express">
   <code><img width="15%" src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphQL">
@@ -44,15 +44,15 @@
   <code><img width="15%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=postgresql">
   <code><img width="15%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=mongodb">
 </p> -->
-<br>
+<!-- <br> -->
 <p>
   <code><img width="15%" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></code>
   <code><img width="15%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></code>
 </p>
 
-![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&width=15%)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&width=15%)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
