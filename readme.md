@@ -6,7 +6,7 @@
 </p>
 <br>
 <p>
-  <img align="right" alt="GIF" src="https://i.imgur.com/OCts0FU.gif" width="450" height="200"/>
+  <img align="right" alt="GIF" src="https://monophy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="450" height="200"/>
 </p>
 
 <h3> I'm Software Engineer from Uzbekistan. </h3>
@@ -32,10 +32,11 @@
 <p>
   <code><img width="15%" src="https://img.shields.io/badge/-PostgresQL-black?style=flat-square&logo=postgresQl">
   <code><img width="15%" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB">
+  <code><img width="15%" src="https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite">
 </p>
 <br>
 <p>
-  <code><img width="15%" src="https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=expressJS">
+  <code><img width="15%" src="https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=express">
   <code><img width="15%" src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphQL">
 </p>
 <!-- <br>
