@@ -6,7 +6,7 @@
 </p>
 <br>
 <p>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="200"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="370" height="200"/>
 </p>
 
 <h3> I'm Software Engineer from Uzbekistan. </h3>
