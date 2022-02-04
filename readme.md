@@ -24,7 +24,7 @@
 
 ![windows](https://img.shields.io/badge/Windows-E95420?style=flat-square&logo=windows&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=linux&logoColor=white)
-<p>
+<p style="display: inline;">
   <code><img width="15%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"></code>
   <code><img width="15%" src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js"></code>
 </p>
