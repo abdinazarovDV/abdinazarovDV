@@ -6,7 +6,7 @@
 </p>
 <br>
 <p>
-  <img align="right" alt="GIF" src="https://monophy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="450" height="200"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="200"/>
 </p>
 
 <h3> I'm Software Engineer from Uzbekistan. </h3>
@@ -50,9 +50,9 @@
   <code><img width="15%" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"></code>
 </p>
 
-![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&width=15%)
+![c](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white&height=35%)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&width=15%)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&height=15%)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
