@@ -30,13 +30,13 @@
 </p>
 <br>
 <p>
-  <code><img width="15%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=postgresQl">
-  <code><img width="15%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=mongoDB">
+  <code><img width="15%" src="https://img.shields.io/badge/-PostgresQL-black?style=flat-square&logo=postgresQl">
+  <code><img width="15%" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongoDB">
 </p>
 <br>
 <p>
-  <code><img width="15%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=expressJS">
-  <code><img width="15%" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=graphQL">
+  <code><img width="15%" src="https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=expressJS">
+  <code><img width="15%" src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphQL">
 </p>
 <!-- <br>
 <p>
