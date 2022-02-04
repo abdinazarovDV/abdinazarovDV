@@ -2,7 +2,7 @@
 <br>
 <br>
 <p>
-  <h2> Hey there! 👋</h2>
+  <h2> Welcome to my web life 👋</h2>
 </p>
 <br>
 <p>
